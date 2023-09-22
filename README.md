@@ -1,17 +1,35 @@
-# Vansay-JAM
-We have a discord bot that focuses on the bare minimum things. Ban. Uncensor. AI. Roles. 
+# Welcome to Vansay-JAM Discord Bot!
 
-# AI Chat
-The bot will include an all exclusive AI bot chatting feature. You can get ideas, talk with an AI bot and get suggestions on how to improve you speech. It has the ability to read and write your messages. But the user can disable this by using /endai_record and the bot discards the coversation in the memory box. 
+I'm here to assist you with various commands related to ban, uncensor, AI chat, and role assignments. Please use the following commands to interact with the bot:
 
-# Auto Ban
-The bot can ban users for any of the following includes but is not limited to, porn, excessive wording, racism, pointing, etc. This feature can be minus-ed through the configuration file in python excluding some channels: ex. NSFW
+# Ban:
 
-# ADVANCED CENSORED
-The bot will include a feature a censored feature where it will blur any image that it detects that it may be pictures of nude or any references to any attacks: Advanced and can be minuses for other severs. 
+- To ban a user, use the command /ban @user in the channel where you want to perform the ban. Replace @user with the mention of the user you want to ban.
+Uncensor:
 
-# Role Assignment
-The bot will be allowed to make and assign roles based on the person activity on the server. They can also get roles when they request and the bot can assign roles based on their safety measurement. 
+- To uncensor a message or image, use the command '/uncensor [message ID]' in the same channel where the censorship occurred. Replace [message ID] with the ID of the censored message or image you want to uncensor.
+
+# AI Chat:
+
+- You can chat with the AI bot by simply sending a message, and it will respond to your queries and engage in conversation.
+- To enable the AI bot to read and respond to your messages, use the command /startai_record in the channel. The bot will begin recording your messages and responding accordingly.
+- To disable the AI bot's conversation recording, use the command '/endai_record', and the bot will discard the conversation from its memory.
+
+# Auto Ban:
+
+- The bot has an auto-ban feature that can ban users for violations such as pornography, excessive wording, racism, pointing, etc.
+- You can configure this feature in the Python configuration file, excluding specific channels like NSFW if needed.
+
+# Advanced Censored:
+
+- The bot includes an advanced censoring feature that can blur images it detects as potentially containing nudity or references to attacks.
+- You can configure this feature for your server.
+
+# Role Assignment:
+
+- The bot can automatically assign roles based on a user's activity on the server.
+- Users can also request roles, and the bot can assign roles based on safety measurements.
+- If you have any specific questions or need assistance with any of these features, feel free to ask. Enjoy using Vansay-JAM Discord Bot!
 
 # Authors
 ## Discord: 
