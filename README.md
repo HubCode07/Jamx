@@ -15,7 +15,7 @@ The bot will be allowed to make and assign roles based on the person activity on
 
 # Authors
 ## Discord: 
-HubCode#7370 | @hubcode
-Ow3n#8604 | @ow3n
-Graggle#7791 | @graggleboi
+HubCode#7370 | @hubcode -
+Ow3n#8604 | @ow3n - 
+Graggle#7791 | @graggleboi - 
 
