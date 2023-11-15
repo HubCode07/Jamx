@@ -1,4 +1,4 @@
-# Welcome to Vansay-JAM Discord Bot!
+# Welcome to Jamify Discord Bot!
 
 I'm here to assist you with various commands related to ban, uncensor, AI chat, and role assignments. Please use the following commands to interact with the bot:
 
