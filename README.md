@@ -4,29 +4,22 @@
 
 **Key Features:**
 
-* **Ban/Unban:** Easily manage user access with intuitive `/ban` and `/uncensor` commands.
-* **AI Chat:** Converse with our intelligent AI bot, ask questions, and engage in stimulating conversations.
-* **Auto Ban:** Automate ban enforcement for various offenses, customizable through the configuration file.
-* **Advanced Censorship:** Protect your server with automatic image blurring for sensitive content.
-* **Role Management:** Automatically assign roles based on activity or grant them upon request.
-* **Safeguards:** Built-in safety measures ensure responsible role assignment and user interaction.
+* **AI Chat:** Converse with our intelligent AI bot, ask questions and engage in stimulating conversations.
+* **Automatic Role Detection:** Add interesting roles in your profile with boxes, by using `!jam_box`, `!mini_box`, `!legendary_box`
 * **Easy Installation:** Add Jamify to your server with a single click using the provided link.
 
 **Get Started:**
 
-1. Invite Jamify to your server: Invite Link: https://discordjs.guide/preparations/adding-your-bot-to-servers
-2. Explore the commands listed below.
-3. Customize the bot's behavior through the Python configuration file.
-4. Reach out to the developers for assistance.
+1. Invite Jamify to your server
+2. Join this server, in order to set up the bot for proper usage 
+3. Explore the commands in `!helpx` or `!help`.
+4. Customize the bot's behavior through the Python configuration file, by requesting these changes in our discord server...
+5. Reach out to the developers for assistance.
 
 **Commands: (need to update)**
+* Please View the bot `!help` for commands
 
-* `/ban @user`: Bans a specified user from the current channel.
-* `/uncensor [message ID]`: Uncensors a message or image in the current channel.
-* `/startai_record`: Starts recording messages for AI chat.
-* `/endai_record`: Stops recording messages for AI chat.
-
-**Additional Features:**
+**Additional Features Coming Soon to Jamify Active (Slated 2024):**
 
 * Advanced censorship options for sensitive content.
 * Automatic role assignment based on activity.
@@ -41,3 +34,8 @@ If you have any questions or need help using Jamify, please feel free to contact
 * **Graggle#7791** (@graggleboi)
 
 **Enjoy using Jamify Discord Bot!**
+
+**Upgrading Project**
+* More neater, separated, commands and files for the bot
+* Jam Economy (Feature Update, still in Jam Board)
+* More intuitive **Snap Plus** will be launching, for extra features such as a more interactive chatbot and access to ChatGPT 4.5 with Bing..., Jam Economy Plus, and so much more...  
