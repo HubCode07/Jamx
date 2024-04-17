@@ -1,4 +1,4 @@
-# Jamify - Your Versatile Discord Bot
+# Jamify - Your Versatile Discord Bot (NUM! EDIT DESQ) (NOW JAMX)
 
 **Jamify** is a powerful and versatile Discord bot designed to enhance your server experience. From managing users and roles to engaging in AI-powered conversations, Jamify has something for everyone.
 
@@ -27,12 +27,9 @@
 
 **Support:**
 
-If you have any questions or need help using Jamify, please feel free to contact the developers:
+If you have any questions or need help using Jamify, please feel free to contact the developer:
 
 * **HubCode#7370** (@hubcode)
-* **Ow3n#8604** (@ow3n)
-* **Graggle#7791** (@graggleboi)
-
 **Enjoy using Jamify Discord Bot!**
 
 **Upgrading Project**
