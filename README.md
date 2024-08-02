@@ -1,5 +1,4 @@
-![Group 10](https://github.com/user-attachments/assets/ae4edbfe-416a-494e-aa02-2ed1147d2467) ![Group 12](https://github.com/user-attachments/assets/8e858ff1-bf68-4c79-b3d5-ce94529c02f5)
-
+![Group 10](https://github.com/user-attachments/assets/ae4edbfe-416a-494e-aa02-2ed1147d2467) 
 # Jamx - Your Versatile Discord Bot
 **Jamx** is a powerful and versatile Discord bot designed to enhance your server experience. From managing users and roles to engaging in AI-powered conversations, Jamify has something for everyone.
 
@@ -31,4 +30,9 @@ If you have any questions or need help using Jamx, please feel free to contact t
 
 **Upgrading Project**
 * We have launched the Alpha Version of Active Text-to-Text Conversation in Discord Chats, although experimental, it will allow the bot to imitate a person (with their consent) and/or act as a member in the server, which can read videos, and texts, pictures, and audio and put out text. ![image](https://github.com/user-attachments/assets/0d23e962-3c3d-4d51-a833-33b254e2168a)
-* 
+* We are relaunching the Random Level Box, with a new layout and design system. The modern version of Jamx will be on 24/7 and will be based entirely on commands.
+
+![Group 12](https://github.com/user-attachments/assets/8ca14093-37b4-4130-b17c-86a3f000cc06)
+**Want to Join our Server to give the bot a try?**
+Join our Vansay Jam Server, there any many things to do and is the birthplace of this bot, if you want to try out the bot or just want to chat, join the server :)
+https://discord.gg/tdsHDqvFZe
