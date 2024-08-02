@@ -33,6 +33,7 @@ If you have any questions or need help using Jamx, please feel free to contact t
 * We are relaunching the Random Level Box, with a new layout and design system. The modern version of Jamx will be on 24/7 and will be based entirely on commands.
 
 ![Group 12](https://github.com/user-attachments/assets/8ca14093-37b4-4130-b17c-86a3f000cc06)
+
 **Want to Join our Server to give the bot a try?**
 Join our Vansay Jam Server, there any many things to do and is the birthplace of this bot, if you want to try out the bot or just want to chat, join the server :)
 https://discord.gg/tdsHDqvFZe
