@@ -1,0 +1,17 @@
+[
+    {
+        "name": "Sola Pecou Badge",
+        "cost": 500,
+        "quantity": 3
+    },
+    {
+        "name": "Gyatt",
+        "cost": 5000000,
+        "quantity": 3
+    },
+    {
+        "name": "nuts",
+        "cost": 0,
+        "quantity": 28
+    }
+]
