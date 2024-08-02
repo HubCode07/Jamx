@@ -1,3 +1,4 @@
+![Group 10](https://github.com/user-attachments/assets/ae4edbfe-416a-494e-aa02-2ed1147d2467)
 # Jamx - Your Versatile Discord Bot
 **Jamx** is a powerful and versatile Discord bot designed to enhance your server experience. From managing users and roles to engaging in AI-powered conversations, Jamify has something for everyone.
 
@@ -28,5 +29,5 @@ If you have any questions or need help using Jamx, please feel free to contact t
 * **HubCode#7370** (@hubcode)
 
 **Upgrading Project**
-* We have launched the Alpha Version of Active Text-to-Text Conversation in Discord Chats, although experimental, it will allow the bot to imitate a person (with their consent) and/or act as a member in the server, which can read videos, and texts, pictures, and audio and put out text.
-* (example) ![image](https://github.com/user-attachments/assets/0d23e962-3c3d-4d51-a833-33b254e2168a)
+* We have launched the Alpha Version of Active Text-to-Text Conversation in Discord Chats, although experimental, it will allow the bot to imitate a person (with their consent) and/or act as a member in the server, which can read videos, and texts, pictures, and audio and put out text. ![image](https://github.com/user-attachments/assets/0d23e962-3c3d-4d51-a833-33b254e2168a)
+* 
