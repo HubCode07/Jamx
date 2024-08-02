@@ -3,19 +3,19 @@
 
 **Key Features:**
 
-* **Jam AIx:** Converse with our intelligent AI bot, ask questions, and engage in stimulating conversations. Powered by Gemini AI
-* **Easy Installation:** Add Jamify to your server with a single click using the provided link.
+* **Jam AIx:** Converse with our intelligent CoPilot AI bot, ask questions, and engage in stimulating conversations. Powered by Gemini 1.5 Pro
+* **Easy Installation:** Add Jamx to your server with a single click using the provided link.
 
 **Get Started:**
 
 1. Invite Jamx to your server
 2. Join this server, to set up the bot for proper usage 
 3. Explore the commands in `!help`.
-4. Customize the bot's behavior through the Python configuration file, by requesting these changes in our discord server...
+4. Customize the bot's behavior through the Python configuration file, by requesting these changes in our discord server... (will soon have a UI interface to modify changes)
 5. Reach out to the developers for assistance.
 
 
-**Additional Features Coming Soon to Jamify Active (Slated 2024):**
+**Additional Features Coming Soon to Jamx (Slated 2024):**
 
 * Advanced censorship options for sensitive content.
 * Automatic role assignment based on activity.
@@ -23,12 +23,10 @@
 
 **Support:**
 
-If you have any questions or need help using Jamify, please feel free to contact the developer:
+If you have any questions or need help using Jamx, please feel free to contact the developer:
 
 * **HubCode#7370** (@hubcode)
-**Enjoy using Jamify Discord Bot!**
 
 **Upgrading Project**
-* More neater, separated, commands and files for the bot
-* Jam Economy (Feature Update, still in Jam Board)
-* More intuitive **Snap** will launch
+* We have launched the Alpha Version of Active Text-to-Text Conversation in Discord Chats, although experimental, it will allow the bot to imitate a person (with their consent) and/or act as a member in the server, which can read videos, and texts, pictures, and audio and put out text.
+* (example) ![image](https://github.com/user-attachments/assets/0d23e962-3c3d-4d51-a833-33b254e2168a)
