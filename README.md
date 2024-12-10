@@ -1,5 +1,4 @@
-![image](![image](https://github.com/user-attachments/assets/31ee62d1-7d30-4027-8d1f-30d809080f4c)
-)
+![image](![image](https://github.com/user-attachments/assets/31ee62d1-7d30-4027-8d1f-30d809080f4c))
 
 # Jamx - Your Versatile Discord Bot
 **Jamx** is a powerful and versatile Discord bot designed to enhance your server experience. From managing users and roles to engaging in AI-powered conversations, Jamify has something for everyone.
